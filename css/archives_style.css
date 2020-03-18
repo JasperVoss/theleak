@@ -1,0 +1,7 @@
+article {
+    display: grid;
+    grid-template-columns: 1fr 0.5in [start] 1.25in 5in 1.25in [end] 0.5in 1fr;
+    margin-left:20%;
+    margin-right:20%;
+    font-size:18px;
+}

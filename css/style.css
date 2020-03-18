@@ -1,0 +1,48 @@
+header[role="banner"] {
+  #logo-main {
+    display: block;
+    margin: 20px auto;
+  }
+}
+
+#navbar-primary.navbar-default {
+  background: transparent;
+  border: none;
+  .navbar-nav { 
+    width: 100%;
+    text-align: center;
+    > li {
+      display: inline-block;
+      float: none;
+      > a {
+        padding-left: 30px;
+        padding-right: 30px;
+        }
+    }
+  }
+}
+
+a, h3, p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer {
+  font-family: "Times New Roman", Times, serif;
+}
+
+@media screen and (max-width:1000px) {  
+  .top-div {
+    display: none;
+  }
+}
+
+figcaption {
+  margin-top: 0.5rem;
+
+  display: flex;
+  justify-content: center;
+}
+figcaption p {color: hsl(000, 0%, 60%); }
+
+
+
