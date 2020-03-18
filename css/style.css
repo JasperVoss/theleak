@@ -34,6 +34,17 @@ a, h3, p {
   .top-div {
     display: none;
   }
+  .top-stories-div {
+    border:none !important;
+  }
+  .nhs-div {
+    border-left:none !important;
+    height:500px !important;
+  }
+  .national-div {
+    border-right:none !important;
+    height:500px !important;
+  }
 }
 
 figcaption {
