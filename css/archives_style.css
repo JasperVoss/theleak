@@ -5,3 +5,15 @@ article {
     margin-right:20%;
     font-size:18px;
 }
+
+@media screen and (max-width:1000px) {
+	img {
+		width:100% !important;
+		margin-left:0% !important;
+	}
+}
+
+img {
+	margin-top:10px;
+	margin-bottom:10px;
+}
