@@ -11,6 +11,10 @@ article {
 		width:100% !important;
 		margin-left:0% !important;
 	}
+	article {
+		margin-left: 5% !important;
+		margin-right: 5% !important;
+	}
 }
 
 img {
