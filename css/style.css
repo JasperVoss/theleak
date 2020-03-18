@@ -38,10 +38,11 @@ a, h3, p {
 
 figcaption {
   margin-top: 0.5rem;
-
   display: flex;
   justify-content: center;
 }
+
+time         {color: hsl(250, 100%, 80%); }
 figcaption p {color: hsl(000, 0%, 60%); }
 
 
